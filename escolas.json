@@ -1,19 +1,5 @@
 [
-  {
-    "anuncioCod":1,
-    "regiaoCod":9,
-    "picoCod":35,
-    "imagemUrl":"https://raw.githubusercontent.com/cscmapp/data_escolas/main/foto_1.jpg",
-    "ordem":1,
-    "titulo":"Angels",
-    "mensagem":"melhor",
-    "morada":"morada_1",
-    "moradaGps":"moradaGps_10",
-    "email":"email_1",
-    "site":"site_1",
-    "outro":"outro_1",
-    "destaque":1
-  }
+{"anuncioCod":1,"regiaoCod":9,"picoCod":35,"imagemUrl":"https://raw.githubusercontent.com/cscmapp/data_escolas/main/foto_1","ordem":1,"titulo":"Angels","mensagem":"melhor","morada":"morada_1","moradaGps":"moradaGps_1","email":"email_1","site":"site_1","outro":"outro_1","destaque":1}
 ]
 
 
