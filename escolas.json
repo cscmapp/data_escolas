@@ -1,6 +1,6 @@
 [
-  {"anuncioCod":1,"regiaoCod":9,"picoCod":35,"imagemUrl":"https://raw.githubusercontent.com/cscmapp/data_escolas/main/foto_1","ordem":1,"titulo":"Angels","mensagem":"melhor","morada":"morada_1","moradaGps":"moradaGps_1","email":"email_1","site":"site_1","outro":"outro_1","destaque":1},"
-{"anuncioCod":2,"regiaoCod":9,"picoCod":33,"imagemUrl":"https://raw.githubusercontent.com/cscmapp/data_escolas/main/foto_2","ordem":2,"titulo":"Gincho","mensagem":"boa","morada":"morada_2","moradaGps":"moradaGps_2","email":"email_2","site":"site_2","outro":"outro_2","destaque":0},"
+  {"anuncioCod":1,"regiaoCod":9,"picoCod":35,"imagemUrl":"https://raw.githubusercontent.com/cscmapp/data_escolas/main/foto_1.jpg","ordem":1,"titulo":"Angels","mensagem":"melhor","morada":"morada_1","moradaGps":"moradaGps_1","email":"email_1","site":"site_1","outro":"outro_1","destaque":1},"
+{"anuncioCod":2,"regiaoCod":9,"picoCod":33,"imagemUrl":"https://raw.githubusercontent.com/cscmapp/data_escolas/main/foto_2.jpg","ordem":2,"titulo":"Gincho","mensagem":"boa","morada":"morada_2","moradaGps":"moradaGps_2","email":"email_2","site":"site_2","outro":"outro_2","destaque":0},"
 ]
 
 
