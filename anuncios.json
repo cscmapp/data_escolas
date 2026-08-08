@@ -3,7 +3,7 @@
     "id": 1,
     "titulo": "Bem-vindo ao Surf Search",
     "mensagem": "Previsão de ondas boas para o próximo fim de semana!",
-    "imageUrl": "https://github.com/cscmapp/data_escolas/blob/main/imagem.png"
+    "imageUrl": "https://raw.githubusercontent.com/cscmapp/data_escolas/main/imagem.png"
   },
   {
     "id": 2,
