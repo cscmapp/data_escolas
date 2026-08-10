@@ -1,7 +1,6 @@
 [
-{"anuncioCod":1,"regiaoCod":9,"picoCod":35,"imagemUrl":"https://raw.githubusercontent.com/cscmapp/data_escolas/main/foto_1.jpg","ordem":1,"titulo":"Angels","mensagem":"melhor","morada":"morada_1","moradaGps":"moradaGps_1","email":"email_1","site":"site_1","outro":"outro_1","destaquePais":1,"destaqueRegiao":1,"destaquePico":0},
-{"anuncioCod":2,"regiaoCod":9,"picoCod":33,"imagemUrl":"https://raw.githubusercontent.com/cscmapp/data_escolas/main/foto_2.jpg","ordem":2,"titulo":"Gincho","mensagem":"boa","morada":"morada_2","moradaGps":"moradaGps_2","email":"email_2","site":"site_2","outro":"outro_2","destaquePais":0,"destaqueRegiao":0,"destaquePico":1}
-
+{"anuncioCod":1,"regiaoCodApp":9,"picoCodApp":35,"imagemUrl":"https://raw.githubusercontent.com/cscmapp/data_escolas/main/foto_1.jpg","ordem":1,"titulo":"Angels","mensagem":"melhor","morada":"morada_1","moradaGps":"moradaGps_1","email":"email_1","site":"site_1","outro":"outro_1","destaquePais":1,"destaqueRegiao":1,"destaquePico":0},
+{"anuncioCod":2,"regiaoCodApp":9,"picoCodApp":33,"imagemUrl":"https://raw.githubusercontent.com/cscmapp/data_escolas/main/foto_2.jpg","ordem":2,"titulo":"Gincho","mensagem":"boa","morada":"morada_2","moradaGps":"moradaGps_2","email":"email_2","site":"site_2","outro":"outro_2","destaquePais":0,"destaqueRegiao":0,"destaquePico":1}
 ]
 
 
