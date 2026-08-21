@@ -5,5 +5,4 @@
 {"anuncioCod":4,"regiaoCodApp":9,"picoCodApp":35,"imagemUrl":"https://raw.githubusercontent.com/cscmapp/data_escolas/main/foto_4.jpg","ordem":5,"titulo":"linha surf school","mensagem":"boa","mensagemGrande":"","morada":"morada_4","moradaGps":"moradaGps_4","email":"email_4","site":"site_4","outro":"outro_4","destaquePais":0,"destaqueRegiao":-1,"destaquePico":2},
 {"anuncioCod":5,"regiaoCodApp":9,"picoCodApp":35,"imagemUrl":"https://raw.githubusercontent.com/cscmapp/data_escolas/main/foto_5.jpg","ordem":3,"titulo":"surf cascais","mensagem":"boa","mensagemGrande":"","morada":"morada_5","moradaGps":"moradaGps_5","email":"email_5","site":"site_5","outro":"outro_5","destaquePais":0,"destaqueRegiao":0,"destaquePico":0},
 {"anuncioCod":6,"regiaoCodApp":10,"picoCodApp":37,"imagemUrl":"https://raw.githubusercontent.com/cscmapp/data_escolas/main/foto_6.jpg","ordem":2,"titulo":"surf pro","mensagem":"boa","mensagemGrande":"","morada":"morada_6","moradaGps":"moradaGps_6","email":"email_6","site":"site_6","outro":"outro_6","destaquePais":2,"destaqueRegiao":3,"destaquePico":1}
-
 ]
